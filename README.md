@@ -16,7 +16,7 @@ Here are some key points about RESTful services:
 Run the code in "Code" folder to start the service and open postman to test some get and post requests.
 <br>
 
-<img src="image5.png" width=70% height="auto"><br><br>
+<img src="image5.png" width=90% height="auto"><br><br>
 
 ## Test get request
 Insert the url and click send
@@ -25,7 +25,7 @@ http://127.0.0.1:5000/service_api
 ```
 <br>
 
-<img src="image4.png" width=70% height="auto"><br><br>
+<img src="image4.png" width=90% height="auto"><br><br>
 
 
 ## Test post request
@@ -38,7 +38,7 @@ headers
 ```
 <br>
 
-<img src="image1.png" width=70% height="auto"><br><br>
+<img src="image1.png" width=90% height="auto"><br><br>
 ### Set the body
 Body
 ```
@@ -48,13 +48,13 @@ Body
 ```
 <br>
 
-<img src="image2.png" width=70% height="auto"><br><br>
+<img src="image2.png" width=90% height="auto"><br><br>
 
 ## Result request post
 Check on the terminal the result of the requests
 <br>
 
-<img src="image3.png" width=70% height="auto"><br><br>
+<img src="image3.png" width=90% height="auto"><br><br>
 
 
 
